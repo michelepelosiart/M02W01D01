@@ -1,0 +1,14 @@
+1. Cos'è un algoritmo? Prova a spiegarlo con parole tue, 
+come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+- 
+Un algoritmo è una formula, un meccanismo che con delle indicazioni specifiche, fa un calcolo e ci restituisce un risultato.
+
+2. Cos'è una variabile? Prova a spiegarlo con parole tue, 
+come se lo dovessi spiegare a qualcuno che non ne capisce niente di informatica.
+- 
+Una variabile è un elemento contenitore che può contenere al suo interno degli elementi di diverso tipo che possano essere mescolati tra loro.
+
+3. undefined e null sono la stessa cosa?
+- 
+Undefined è un elemento contenitore al quale non è stato assegnato un elemento nel suo spazio.
+Null invece è un elemento contenitore al quale è stato assegnato un valore nullo, conferma l'assenza di valore nel suo spazio.
